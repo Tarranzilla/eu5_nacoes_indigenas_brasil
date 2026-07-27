@@ -1,0 +1,12 @@
+{
+    "name": "Nações Indígenas do Brasil (1337)",
+    "id": "nacoes_indigenas_brasil",
+    "version": "1.0",
+    "supported_game_version": "1.3.*",
+    "short_description": "Adiciona 5 nações indígenas jogáveis no Brasil no início do jogo em 1337.",
+    "tags": [
+        "Alternative History",
+        "Historical",
+        "Map"
+    ]
+}
