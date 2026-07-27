@@ -94,16 +94,16 @@ locations = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = peasants size = 10.0 }
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = nobles size = 0.5 }
 	}
-	macapa = {
+	pixipixi = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
 	}
-	chaves = {
+	arari = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
 	}
-	afua = {
+	ananatuba = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
 	}
-	gurupa = {
+	anajas = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
 	}
 

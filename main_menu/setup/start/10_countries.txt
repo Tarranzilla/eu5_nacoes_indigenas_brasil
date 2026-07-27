@@ -62966,8 +62966,6 @@ countries = {
 		# Tupinambá (TPB) - Coast / Bahia & Guanabara
 		TPB = {
 			country_rank = rank_duchy
-			culture = tupinamba_culture
-			religion = namandu_religion
 			capital = sauipe
 
 			own_control_core = {
@@ -62989,8 +62987,6 @@ countries = {
 		# Guarani (GRN) - South / Paraná & Santa Catarina
 		GRN = {
 			country_rank = rank_duchy
-			culture = ava_culture
-			religion = tunpa_religion
 			capital = parnanguara
 
 			own_control_core = {
@@ -63012,8 +63008,6 @@ countries = {
 		# Tapuia (TPU) - Interior East / Minas Gerais & Espírito Santo
 		TPU = {
 			country_rank = rank_duchy
-			culture = kren_culture
-			religion = doi_wahire_religion
 			capital = cataguas
 
 			own_control_core = {
@@ -63035,8 +63029,6 @@ countries = {
 		# Cariba (CRB) - North / Guiana & Roraima
 		CRB = {
 			country_rank = rank_duchy
-			culture = potiguara_culture
-			religion = jurema_religion
 			capital = kumarakapay
 
 			own_control_core = {
@@ -63058,12 +63050,10 @@ countries = {
 		# Aruaque (ARQ) - Amazon Delta / Pará & Marajó
 		ARQ = {
 			country_rank = rank_duchy
-			culture = marajo_culture
-			religion = doi_wahire_religion
 			capital = marajoara
 
 			own_control_core = {
-				marajoara macapa chaves afua gurupa
+				marajoara pixipixi arari ananatuba anajas
 			}
 
 			include = "amerindian_tribe"
