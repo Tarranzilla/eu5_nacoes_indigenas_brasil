@@ -1,4 +1,4 @@
-# Brazilian Indigenous Nations Definition
+﻿# Brazilian Indigenous Nations Definition
 # 5 Main Playable Nations in Brazil (1337)
 
 TPB = {
@@ -7,6 +7,9 @@ TPB = {
 
 	culture_definition = tupinamba_culture
 	religion_definition = namandu_religion
+
+	description_category = military
+	difficulty = 2
 }
 
 GRN = {
@@ -15,6 +18,9 @@ GRN = {
 
 	culture_definition = ava_culture
 	religion_definition = tunpa_religion
+
+	description_category = military
+	difficulty = 2
 }
 
 TPU = {
@@ -23,6 +29,9 @@ TPU = {
 
 	culture_definition = kren_culture
 	religion_definition = doi_wahire_religion
+
+	description_category = military
+	difficulty = 2
 }
 
 CRB = {
@@ -31,6 +40,9 @@ CRB = {
 
 	culture_definition = potiguara_culture
 	religion_definition = jurema_religion
+
+	description_category = military
+	difficulty = 2
 }
 
 ARQ = {
@@ -39,4 +51,7 @@ ARQ = {
 
 	culture_definition = marajo_culture
 	religion_definition = doi_wahire_religion
+
+	description_category = military
+	difficulty = 2
 }

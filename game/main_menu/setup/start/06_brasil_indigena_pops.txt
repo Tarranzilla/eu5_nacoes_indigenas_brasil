@@ -1,0 +1,110 @@
+locations = {
+
+	# Tupinambá (TPB)
+	sauipe = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 15.0 }
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = peasants size = 10.0 }
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = nobles size = 0.5 }
+	}
+	arakaiu = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 10.0 }
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = peasants size = 8.0 }
+	}
+	itabaiana = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 12.0 }
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = peasants size = 6.0 }
+	}
+	salinas = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 10.0 }
+	}
+	rio_pardo = {
+		define_pop = { type = tribesmen size = 10.0 culture = tupinamba_culture religion = namandu_religion }
+	}
+	jiribatuba = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 12.0 }
+	}
+	tapuy = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 8.0 }
+	}
+	jucuru = {
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 8.0 }
+	}
+
+	# Guarani (GRN)
+	parnanguara = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 15.0 }
+		define_pop = { culture = ava_culture religion = tunpa_religion type = peasants size = 10.0 }
+		define_pop = { culture = ava_culture religion = tunpa_religion type = nobles size = 0.5 }
+	}
+	curitiba = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 12.0 }
+		define_pop = { culture = ava_culture religion = tunpa_religion type = peasants size = 8.0 }
+	}
+	guarapuava = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 10.0 }
+	}
+	lapa = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 8.0 }
+	}
+	palmeira_brasil = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 8.0 }
+	}
+	ponta_grossa = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 10.0 }
+	}
+	sao_jose_pinhais = {
+		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 10.0 }
+	}
+
+	# Tapuia (TPU)
+	cataguas = {
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 15.0 }
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = peasants size = 8.0 }
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = nobles size = 0.5 }
+	}
+	mantiqueira = {
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
+	}
+	guarapiri = {
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
+	}
+	itapemirim = {
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
+	}
+	ita_kua_y = {
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
+	}
+
+	# Cariba (CRB)
+	kumarakapay = {
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = tribesmen size = 15.0 }
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = peasants size = 8.0 }
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = nobles size = 0.5 }
+	}
+	tumeremo = {
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = tribesmen size = 10.0 }
+	}
+	macuxi = {
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = tribesmen size = 10.0 }
+	}
+
+	# Aruaque (ARQ)
+	marajoara = {
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 15.0 }
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = peasants size = 10.0 }
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = nobles size = 0.5 }
+	}
+	macapa = {
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
+	}
+	chaves = {
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
+	}
+	afua = {
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
+	}
+	gurupa = {
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 8.0 }
+	}
+
+}

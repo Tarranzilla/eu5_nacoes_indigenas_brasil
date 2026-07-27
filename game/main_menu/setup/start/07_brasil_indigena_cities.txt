@@ -1,0 +1,7 @@
+locations = {
+	sauipe = { rank = town }
+	parnanguara = { rank = town }
+	cataguas = { rank = town }
+	kumarakapay = { rank = town }
+	marajoara = { rank = town }
+}
