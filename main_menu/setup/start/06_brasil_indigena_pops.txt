@@ -5,6 +5,7 @@ locations = {
 		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 15.0 }
 		define_pop = { culture = tupinamba_culture religion = namandu_religion type = peasants size = 10.0 }
 		define_pop = { culture = tupinamba_culture religion = namandu_religion type = nobles size = 0.5 }
+		define_pop = { culture = tupinamba_culture religion = namandu_religion type = burghers size = 3.0 }
 	}
 	arakaiu = {
 		define_pop = { culture = tupinamba_culture religion = namandu_religion type = tribesmen size = 10.0 }
@@ -35,6 +36,7 @@ locations = {
 		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 15.0 }
 		define_pop = { culture = ava_culture religion = tunpa_religion type = peasants size = 10.0 }
 		define_pop = { culture = ava_culture religion = tunpa_religion type = nobles size = 0.5 }
+		define_pop = { culture = ava_culture religion = tunpa_religion type = burghers size = 3.0 }
 	}
 	curitiba = {
 		define_pop = { culture = ava_culture religion = tunpa_religion type = tribesmen size = 12.0 }
@@ -61,6 +63,7 @@ locations = {
 		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 15.0 }
 		define_pop = { culture = kren_culture religion = doi_wahire_religion type = peasants size = 8.0 }
 		define_pop = { culture = kren_culture religion = doi_wahire_religion type = nobles size = 0.5 }
+		define_pop = { culture = kren_culture religion = doi_wahire_religion type = burghers size = 3.0 }
 	}
 	mantiqueira = {
 		define_pop = { culture = kren_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }
@@ -80,6 +83,7 @@ locations = {
 		define_pop = { culture = potiguara_culture religion = jurema_religion type = tribesmen size = 15.0 }
 		define_pop = { culture = potiguara_culture religion = jurema_religion type = peasants size = 8.0 }
 		define_pop = { culture = potiguara_culture religion = jurema_religion type = nobles size = 0.5 }
+		define_pop = { culture = potiguara_culture religion = jurema_religion type = burghers size = 3.0 }
 	}
 	tumeremo = {
 		define_pop = { culture = potiguara_culture religion = jurema_religion type = tribesmen size = 10.0 }
@@ -93,6 +97,7 @@ locations = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 15.0 }
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = peasants size = 10.0 }
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = nobles size = 0.5 }
+		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = burghers size = 3.0 }
 	}
 	pixipixi = {
 		define_pop = { culture = marajo_culture religion = doi_wahire_religion type = tribesmen size = 10.0 }

@@ -1,0 +1,198 @@
+countries = {
+	countries = {
+		# Tupinambá (TPB) - Coast / Bahia & Guanabara
+		TPB = {
+			country_rank = rank_duchy
+			capital = sauipe
+			starting_technology_level = 1
+
+			own_control_core = {
+				sauipe arakaiu itabaiana salinas rio_pardo jiribatuba tapuy jucuru
+			}
+
+			include = "amerindian_tribe"
+			include = "expl_southamerica"
+
+			government = {
+				ruler = random
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+
+			privilege = {
+				market_fairs
+				urban_development_grants
+			}
+
+			own_advancements = {
+				inter_valley_irrigation
+				terrace_farming
+			}
+
+			discovered_regions = {
+				brazil_region
+				platine_region
+				amazon_region
+				guyana_region
+			}
+		}
+
+		# Guarani (GRN) - South / Paraná & Santa Catarina
+		GRN = {
+			country_rank = rank_duchy
+			capital = parnanguara
+			starting_technology_level = 1
+
+			own_control_core = {
+				curitiba guarapuava lapa palmeira_brasil parnanguara ponta_grossa sao_jose_pinhais
+			}
+
+			include = "amerindian_tribe"
+			include = "expl_southamerica"
+
+			government = {
+				ruler = random
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+
+			privilege = {
+				market_fairs
+				urban_development_grants
+			}
+
+			own_advancements = {
+				inter_valley_irrigation
+				terrace_farming
+			}
+
+			discovered_regions = {
+				brazil_region
+				platine_region
+				amazon_region
+				guyana_region
+			}
+		}
+
+		# Tapuia (TPU) - Interior East / Minas Gerais & Espírito Santo
+		TPU = {
+			country_rank = rank_duchy
+			capital = cataguas
+			starting_technology_level = 1
+
+			own_control_core = {
+				cataguas mantiqueira guarapiri itapemirim ita_kua_y
+			}
+
+			include = "amerindian_tribe"
+			include = "expl_southamerica"
+
+			government = {
+				ruler = random
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+
+			privilege = {
+				market_fairs
+				urban_development_grants
+			}
+
+			own_advancements = {
+				inter_valley_irrigation
+				terrace_farming
+			}
+
+			discovered_regions = {
+				brazil_region
+				platine_region
+				amazon_region
+				guyana_region
+			}
+		}
+
+		# Cariba (CRB) - North / Guiana & Roraima
+		CRB = {
+			country_rank = rank_duchy
+			capital = kumarakapay
+			starting_technology_level = 1
+
+			own_control_core = {
+				kumarakapay tumeremo macuxi
+			}
+
+			include = "amerindian_tribe"
+			include = "expl_southamerica"
+
+			government = {
+				ruler = random
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+
+			privilege = {
+				market_fairs
+				urban_development_grants
+			}
+
+			own_advancements = {
+				inter_valley_irrigation
+				terrace_farming
+			}
+
+			discovered_regions = {
+				brazil_region
+				platine_region
+				amazon_region
+				guyana_region
+			}
+		}
+
+		# Aruaque (ARQ) - Amazon Delta / Pará & Marajó
+		ARQ = {
+			country_rank = rank_duchy
+			capital = marajoara
+			starting_technology_level = 1
+
+			own_control_core = {
+				marajoara pixipixi arari ananatuba anajas
+			}
+
+			include = "amerindian_tribe"
+			include = "expl_southamerica"
+
+			government = {
+				ruler = random
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+
+			privilege = {
+				market_fairs
+				urban_development_grants
+			}
+
+			own_advancements = {
+				inter_valley_irrigation
+				terrace_farming
+			}
+
+			discovered_regions = {
+				brazil_region
+				platine_region
+				amazon_region
+				guyana_region
+			}
+		}
+	}
+}
