@@ -1,7 +1,30 @@
 locations = {
+	# Tupinambá (TPB)
 	sauipe = { rank = town }
+	arakaiu = { rank = forest_village }
+	itabaiana = { rank = forest_village }
+	salinas = { rank = forest_village }
+
+	# Guarani (GRN)
 	parnanguara = { rank = town }
+	curitiba = { rank = forest_village }
+	guarapuava = { rank = forest_village }
+	ponta_grossa = { rank = forest_village }
+
+	# Tapuia (TPU)
 	cataguas = { rank = town }
+	mantiqueira = { rank = forest_village }
+	guarapiri = { rank = forest_village }
+	itapemirim = { rank = forest_village }
+
+	# Cariba (CRB)
 	kumarakapay = { rank = town }
+	tumeremo = { rank = forest_village }
+	macuxi = { rank = forest_village }
+
+	# Aruaque (ARQ)
 	marajoara = { rank = town }
+	pixipixi = { rank = forest_village }
+	arari = { rank = forest_village }
+	ananatuba = { rank = forest_village }
 }

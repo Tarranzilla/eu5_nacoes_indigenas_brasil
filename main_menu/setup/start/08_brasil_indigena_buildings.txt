@@ -1,0 +1,21 @@
+building_manager = {
+	# Tupinambá (TPB) - 2 Market Villages
+	market_village = { location = sauipe tag = TPB level = 1 }
+	market_village = { location = arakaiu tag = TPB level = 1 }
+
+	# Guarani (GRN) - 2 Market Villages
+	market_village = { location = parnanguara tag = GRN level = 1 }
+	market_village = { location = curitiba tag = GRN level = 1 }
+
+	# Tapuia (TPU) - 2 Market Villages
+	market_village = { location = cataguas tag = TPU level = 1 }
+	market_village = { location = mantiqueira tag = TPU level = 1 }
+
+	# Caribe (CRB) - 2 Market Villages
+	market_village = { location = kumarakapay tag = CRB level = 1 }
+	market_village = { location = tumeremo tag = CRB level = 1 }
+
+	# Arawak (ARQ) - 2 Market Villages
+	market_village = { location = marajoara tag = ARQ level = 1 }
+	market_village = { location = pixipixi tag = ARQ level = 1 }
+}

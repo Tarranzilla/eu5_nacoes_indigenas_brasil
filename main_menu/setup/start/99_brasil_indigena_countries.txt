@@ -1,10 +1,12 @@
 countries = {
 	countries = {
-		# Tupinambá (TPB) - Coast / Bahia & Guanabara
+		# Tupinambá (TPB) - Coastal Seafarers & Cassava Farmers
 		TPB = {
 			country_rank = rank_duchy
 			capital = sauipe
 			starting_technology_level = 1
+			gold = 250
+			treasury = 250
 
 			own_control_core = {
 				sauipe arakaiu itabaiana salinas rio_pardo jiribatuba tapuy jucuru
@@ -18,16 +20,21 @@ countries = {
 			}
 
 			reforms = {
+				coastal_canoe_tradition
+				warrior_council
 				agricultural_cultivation
 			}
 
 			privilege = {
+				cassava_surplus_distribution
+				coastal_trade_rights
 				market_fairs
 				urban_development_grants
 			}
 
 			own_advancements = {
 				inter_valley_irrigation
+				sea_canoe_construction
 				terrace_farming
 			}
 
@@ -39,11 +46,13 @@ countries = {
 			}
 		}
 
-		# Guarani (GRN) - South / Paraná & Santa Catarina
+		# Guarani (GRN) - Plateau Mystics & Maloca Communities
 		GRN = {
 			country_rank = rank_duchy
 			capital = parnanguara
 			starting_technology_level = 1
+			gold = 250
+			treasury = 250
 
 			own_control_core = {
 				curitiba guarapuava lapa palmeira_brasil parnanguara ponta_grossa sao_jose_pinhais
@@ -57,17 +66,22 @@ countries = {
 			}
 
 			reforms = {
+				paje_shamanic_council
+				communal_maloca_organization
 				agricultural_cultivation
 			}
 
 			privilege = {
+				mate_harvest_grants
+				sacred_path_guardianship
 				market_fairs
 				urban_development_grants
 			}
 
 			own_advancements = {
-				inter_valley_irrigation
 				terrace_farming
+				herbal_medicine_knowledge
+				inter_valley_irrigation
 			}
 
 			discovered_regions = {
@@ -78,11 +92,13 @@ countries = {
 			}
 		}
 
-		# Tapuia (TPU) - Interior East / Minas Gerais & Espírito Santo
+		# Tapuia (TPU) - Macro-Jê Highland Foragers & Log Runners
 		TPU = {
 			country_rank = rank_duchy
 			capital = cataguas
 			starting_technology_level = 1
+			gold = 250
+			treasury = 250
 
 			own_control_core = {
 				cataguas mantiqueira guarapiri itapemirim ita_kua_y
@@ -96,17 +112,20 @@ countries = {
 			}
 
 			reforms = {
-				agricultural_cultivation
+				chiefdom_of_the_highlands
+				log_race_warrior_training
+				nomadic_range_scouting
 			}
 
 			privilege = {
+				highland_hunting_rights
+				clan_championships
 				market_fairs
-				urban_development_grants
 			}
 
 			own_advancements = {
-				inter_valley_irrigation
-				terrace_farming
+				highland_foraging_mastery
+				ambush_warfare_tactics
 			}
 
 			discovered_regions = {
@@ -117,11 +136,13 @@ countries = {
 			}
 		}
 
-		# Cariba (CRB) - North / Guiana & Roraima
+		# Caribe / Kalina (CRB) - Guiana Shield River Traders
 		CRB = {
 			country_rank = rank_duchy
 			capital = kumarakapay
 			starting_technology_level = 1
+			gold = 250
+			treasury = 250
 
 			own_control_core = {
 				kumarakapay tumeremo macuxi
@@ -135,17 +156,19 @@ countries = {
 			}
 
 			reforms = {
-				agricultural_cultivation
+				riverine_warrior_confederacy
+				curare_poison_mastery
 			}
 
 			privilege = {
+				river_toll_rights
+				highland_savanna_grazing
 				market_fairs
-				urban_development_grants
 			}
 
 			own_advancements = {
-				inter_valley_irrigation
-				terrace_farming
+				river_navigation_charts
+				blowgun_poison_crafting
 			}
 
 			discovered_regions = {
@@ -156,11 +179,13 @@ countries = {
 			}
 		}
 
-		# Aruaque (ARQ) - Amazon Delta / Pará & Marajó
+		# Arawak / Marajoara (ARQ) - Amazon Delta Mound Engineers
 		ARQ = {
 			country_rank = rank_duchy
 			capital = marajoara
 			starting_technology_level = 1
+			gold = 250
+			treasury = 250
 
 			own_control_core = {
 				marajoara pixipixi arari ananatuba anajas
@@ -174,17 +199,22 @@ countries = {
 			}
 
 			reforms = {
+				marajoara_mound_council
+				hydraulic_earthwork_governance
 				agricultural_cultivation
 			}
 
 			privilege = {
+				aquaculture_rights
+				pottery_artisan_guilds
 				market_fairs
 				urban_development_grants
 			}
 
 			own_advancements = {
-				inter_valley_irrigation
-				terrace_farming
+				raised_field_agriculture
+				floodplain_aquaculture
+				polychrome_ceramics
 			}
 
 			discovered_regions = {

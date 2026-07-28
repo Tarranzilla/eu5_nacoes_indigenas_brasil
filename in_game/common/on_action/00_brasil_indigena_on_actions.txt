@@ -1,0 +1,16 @@
+on_game_start = {
+	effect = {
+		every_country = {
+			limit = {
+				OR = {
+					tag = TPB
+					tag = GRN
+					tag = TPU
+					tag = CRB
+					tag = ARQ
+				}
+			}
+			add_gold = 250
+		}
+	}
+}
