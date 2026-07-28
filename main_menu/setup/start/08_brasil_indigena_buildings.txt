@@ -3,9 +3,14 @@ building_manager = {
 	market_village = { location = sauipe tag = TPB level = 1 }
 	market_village = { location = arakaiu tag = TPB level = 1 }
 
-	# Guarani (GRN) - 2 Market Villages
+	# Guarani (GRN) - 7 Market Villages (All Locations)
 	market_village = { location = parnanguara tag = GRN level = 1 }
 	market_village = { location = curitiba tag = GRN level = 1 }
+	market_village = { location = guarapuava tag = GRN level = 1 }
+	market_village = { location = lapa tag = GRN level = 1 }
+	market_village = { location = palmeira_brasil tag = GRN level = 1 }
+	market_village = { location = ponta_grossa tag = GRN level = 1 }
+	market_village = { location = sao_jose_pinhais tag = GRN level = 1 }
 
 	# Tapuia (TPU) - 2 Market Villages
 	market_village = { location = cataguas tag = TPU level = 1 }

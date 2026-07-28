@@ -10,7 +10,7 @@ on_game_start = {
 					tag = ARQ
 				}
 			}
-			add_gold = 250
+			add_gold = 265
 		}
 	}
 }
